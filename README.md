@@ -12,6 +12,7 @@ A Rick And Morty simple app that loads information from [The Rick and Morty API]
  * Navigation
  
  ## You should also take a look at
+ * [本项目的讲解文章](https://itnext.io/android-architecture-hilt-mvvm-kotlin-coroutines-live-data-room-and-retrofit-ft-8b746cab4a06)
  * [Guide to app architecture](https://developer.android.com/jetpack/guide)
  * [Android architecture samples](https://github.com/android/architecture-samples)
  * [Eli-Fox LEGO Catalog project](https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7)
